@@ -103,13 +103,6 @@ Hello! I'm **Valldynsyah Danuarta**, a Mathematics graduate from **Institut Tekn
 
 ---
 
-### GitHub Activity & Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valldynsyahdanuarta&layout=compact&theme=tokyonight&bg_color=0b0f19&title_color=10b981&text_color=94a3b8&border_color=1e293b&hide_border=false&hide=jupyter%20notebook" alt="Top Languages" height="150" />
-</div>
-
----
 
 ### Let's Connect
 
