@@ -72,18 +72,31 @@ Hello! I'm **Valldynsyah Danuarta**, a Mathematics graduate from **Institut Tekn
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">OBS Bulk Browser Source</h3>
-      <p align="center"><b>Open Source Tool for Creators</b></p>
-      <p>OBS Studio Lua script designed to batch-import and configure multiple browser sources by simply pasting URL lists.</p>
-      <p><a href="https://github.com/valldynsyahdanuarta/obs-bulk-browser-source"><b>Explore Repository &rarr;</b></a></p>
-      <p><code>Lua</code> <code>OBS Studio</code> <code>Automation</code></p>
+      <h3 align="center">E-Commerce Public Dataset Analysis</h3>
+      <p align="center"><b>Exploratory Data Analysis</b></p>
+      <p>End-to-end exploratory data analysis (EDA) on the Olist Brazilian E-Commerce public dataset to identify transaction patterns, product performance, and customer behavior.</p>
+      <p><code>Python</code> <code>Pandas</code> <code>Matplotlib</code> <code>Seaborn</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Personal Portfolio Website</h3>
-      <p align="center"><b>Production Web Experience</b></p>
-      <p>Minimalist editorial portfolio with interactive project showcases, bilingual (ID/EN) support, dynamic theme switcher, and smooth animations.</p>
+      <h3 align="center">Forecasting USD/IDR Exchange Rate Movements</h3>
+      <p align="center"><b>Independent Research — Deep Learning</b></p>
+      <p>Independent research on forecasting USD to IDR currency exchange rate movements using a Stacked Long Short-Term Memory (LSTM) architecture based on 10 years of historical data (2014–2024).</p>
+      <p><code>Python</code> <code>TensorFlow</code> <code>Keras</code> <code>LSTM</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Hoshi – Multi-Platform Live Stream Companion & Automation Suite</h3>
+      <p align="center"><b>Desktop Companion & Automation Suite</b></p>
+      <p>An advanced multi-platform live streaming desktop companion and real-time automation hub integrating TikTok Live, YouTube Live, and Twitch into a centralized dashboard with custom OBS browser overlays, interactive widgets, TTS synthesizer, music requests with synced lyrics, and a built-in queue manager for community mabar game sessions.</p>
+      <p><code>Node.js</code> <code>Express</code> <code>Socket.IO</code> <code>Electron</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Explore All Projects</h3>
+      <p align="center"><b>Portfolio — valldy.my.id</b></p>
+      <p>Browse the complete project gallery with details, tech stacks, and demos on my live portfolio site.</p>
       <p><a href="https://www.valldy.my.id/"><b>Visit valldy.my.id &rarr;</b></a></p>
-      <p><code>Next.js 16</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Framer Motion</code></p>
+      <p><code>5 Projects</code> <code>Live Portfolio</code></p>
     </td>
   </tr>
 </table>
